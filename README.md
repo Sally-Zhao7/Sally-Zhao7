@@ -10,6 +10,11 @@ I'm looking for **Summer 2027 internships** in data science, machine learning, a
 - **[financial-data-analysis-shiny](https://github.com/Sally-Zhao7/financial-data-analysis-shiny)**: an R Shiny dashboard for cleaning financial data, running correlation analysis, and fitting event-impact regressions
 - **Open source:** opened a [PR to NVIDIA NeMo Gym](https://github.com/NVIDIA-NeMo/Gym/pull/3586) that fixes the CLI's "did you mean" helper so it no longer suggests the exact command the user already typed, with regression tests
 
+### Other experience
+
+- **MySages Chatbot** (2023): co-developed an LLM chatbot that simulates classical Chinese philosophers, deployed on GCP with 1,000+ users; worked on persona prompts, multi-turn context management, and logging conversations for fine-tuning data
+- **Antarctic ice rift detection** (2025): research assistant at UW FiberLab, evaluating a Random Forest classifier on ICESat-2 satellite data and testing ways to make predictions more robust
+
 ### Tools
 
 Python · PyTorch · Hugging Face Transformers · pandas · scikit-learn · R · Shiny · SQL · Git
