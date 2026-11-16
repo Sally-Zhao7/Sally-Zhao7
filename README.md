@@ -1,4 +1,4 @@
-## Hi, I'm Sirou (Sally) Zhao
+## Hi, I'm Sally
 
 I'm a Master of Analytics student at **UC Berkeley** (expected Aug 2027). I studied Earth and Space Sciences with a Data Science minor at the University of Washington, and I'm now focused on machine learning, deep learning, and data science, especially model evaluation.
 
